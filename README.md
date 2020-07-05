@@ -20,6 +20,7 @@ npm start
 - [express](https://www.npmjs.com/package/express)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [mongoose](https://www.npmjs.com/package/mongoose)
+- [cors](https://www.npmjs.com/package/cors)
 
 #### Development Dependencies
 

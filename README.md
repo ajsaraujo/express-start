@@ -1,8 +1,7 @@
 ### Installation and usage
 
 Clone this repository to quickly start a new Express project with the minimal you need to get up and running. 
-After you made sure you have the latest version of [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
-and [Node.js](https://nodejs.org/en/download/) installed, run this on your terminal:
+You'll need [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Node.js](https://nodejs.org/en/download/) installed and a running [MongoDB](https://www.mongodb.com/) instance.  After you made sure you have everything set up, run this on your terminal:
 
 ```sh
 git clone https://github.com/ajsaraujo/express-start.git
